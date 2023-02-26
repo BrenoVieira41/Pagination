@@ -28,7 +28,7 @@ $ git clone (https://github.com/BrenoVieira41/Pagination.git)
 #### Rodando docker
 
 ```ps
-# Rode o docker para ter um rabbit na sua máquina
+# Rode o docker para ter um banco na sua máquina
 $ docker-compose up -d
 ```
 
